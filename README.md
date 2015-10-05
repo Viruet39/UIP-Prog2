@@ -3,8 +3,8 @@
 Programación de Computadoras III - UIP
 ======================================
 
-:Autor: <nombre>
-:Fecha: <fecha>
+:Autor: <Elizarde Viruet>
+:Fecha: <20/9/15>
 :Versión: <version>
 
 <descripcion>
